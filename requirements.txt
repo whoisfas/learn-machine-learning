@@ -1,0 +1,13 @@
+# ML Learning & Research Academy — dependencies (Python 3.10+)
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.4
+scipy>=1.11
+sympy>=1.12
+SQLAlchemy>=2.0
+pytest>=8.0
+# Optional / heavier:
+# torch>=2.0        # needed for deep-learning module exercises
+# jupyter           # for notebook work in projects
